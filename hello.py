@@ -1,3 +1,3 @@
-for x in 1 to 44
+for x in range(4):
 	print "hello, world"
 
